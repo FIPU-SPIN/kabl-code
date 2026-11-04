@@ -1,0 +1,44 @@
+{
+  "seed": 42,
+  "n_boot": 2000,
+  "python": "3.13.9",
+  "numpy": "2.3.5",
+  "pandas": "2.3.3",
+  "raters": {
+    "humans": [
+      "coder1",
+      "coder2"
+    ],
+    "base_runs": [
+      "chatgpt_run1",
+      "chatgpt_run2",
+      "chatgpt_run3",
+      "claude_run1",
+      "claude_run2",
+      "claude_run3",
+      "deepseek_run1",
+      "deepseek_run2",
+      "deepseek_run3",
+      "gemini_run1",
+      "gemini_run2",
+      "gemini_run3",
+      "perplexity_run1",
+      "perplexity_run2",
+      "perplexity_run3"
+    ],
+    "shuffled_runs": [
+      "chatgpt_shuffled",
+      "claude_shuffled",
+      "deepseek_shuffled",
+      "gemini_shuffled",
+      "perplexity_shuffled"
+    ],
+    "consensus": [
+      "chatgpt_consensus",
+      "claude_consensus",
+      "deepseek_consensus",
+      "gemini_consensus",
+      "perplexity_consensus"
+    ]
+  }
+}

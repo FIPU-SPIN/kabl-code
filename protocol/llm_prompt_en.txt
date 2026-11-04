@@ -1,0 +1,53 @@
+You are an independent coder. You are coding learning outcomes from the Croatian national curriculum for the school subject Informatics (Republic of Croatia). The outcomes are written in Croatian. For each outcome, you determine (a) the level according to the revised Bloom's taxonomy and (b) the learning type according to ABC Learning Design.
+
+TASK
+Each row of the table below is one learning outcome. For each outcome, provide:
+- bloom_razina_1_do_6: a number from 1 to 6
+- abc_tip: exactly one of these six words (in English, spelled exactly like this): Acquisition, Discussion, Investigation, Collaboration, Practice, Production
+- napomena: a brief justification, only if you are unsure (otherwise leave empty)
+
+BLOOM LEVEL
+1 Remember: recalls facts and recognizes them. Verbs: prepoznaje (recognizes), navodi (lists), pronalazi (finds)
+2 Understand: understands and expresses in own words. Verbs: objašnjava (explains), opisuje (describes), predviđa (predicts), prikazuje (presents/displays)
+3 Apply: carries out a procedure in a familiar or new situation. Verbs: primjenjuje (applies), koristi se (uses), rješava (solves), izvodi (performs)
+4 Analyze: breaks into parts and investigates relationships. Verbs: analizira (analyzes), uspoređuje (compares), istražuje (investigates), uočava (notices)
+5 Evaluate: makes judgments based on criteria. Verbs: vrednuje (evaluates), procjenjuje (assesses), argumentira (argues), provjerava (checks)
+6 Create: assembles new wholes, produces something new. Verbs: stvara (creates), izrađuje (makes), dizajnira (designs), razvija (develops), planira (plans)
+
+Rules for Bloom:
+- If an outcome contains several verbs, code the level of the highest verb. Example: "analizira problem, definira ulaz i izlaz, uočava korake" (analyzes the problem, defines input and output, notices steps) contains levels 4 and 2, so the code is 4.
+- Look at what the student must actually do according to the outcome, not only at the first verb.
+- Outcomes about behaviour and habits (e.g. data protection) are coded with the closest level according to your own judgment, and this is noted in the napomena column.
+- For verbs that can be interpreted in two ways (e.g. "uspoređuje", "istražuje", "razlikuje", "odabire"), decide according to your own understanding of the taxonomy and write a note.
+
+ABC LEARNING TYPE
+Acquisition: learns by listening, reading, watching; explains or describes what was learned
+Discussion: expresses and justifies ideas, debates, argues, responds to others
+Investigation: investigates, compares, analyzes, critically evaluates sources
+Collaboration: works with others on a shared task
+Practice: practises and applies procedures, solves tasks, uses tools with feedback
+Production: creates an artefact (program, digital work, web page, database)
+
+Rules for ABC:
+- Choose exactly one type that the outcome most directly requires.
+- If the outcome explicitly requires working with others ("surađuje", "zajednički", "u suradnji"), code Collaboration.
+- ABC types describe activities, whereas outcomes describe results. Therefore code the type that the outcome most directly implies, not what might happen during a lesson.
+
+EXAMPLES (not part of the set of outcomes)
+navodi tri vrste računalnih mreža (lists three types of computer networks) | 1 | Acquisition | recall of facts
+objašnjava razliku između RAM-a i ROM-a (explains the difference between RAM and ROM) | 2 | Acquisition | understanding, own words
+izračunava prosjek vrijednosti u tablici (calculates the average of values in a table) | 3 | Practice | carrying out a procedure
+procjenjuje pouzdanost mrežnog izvora prema kriterijima (assesses the reliability of an online source against criteria) | 5 | Investigation | judgment based on criteria
+osmišljava i izrađuje jednostavnu igru (designs and makes a simple game) | 6 | Production | creating an artefact
+u paru izrađuje prezentaciju (makes a presentation in a pair) | 6 | Collaboration | explicit work with others
+
+OUTPUT
+- Return only CSV in a single code block, with no introduction and no comments outside it.
+- Columns, in this order: stage,grade,code,bloom_razina_1_do_6,abc_tip,napomena
+- Copy stage, grade and code unchanged.
+- Same number of rows and same order as the input (127 rows). Do not skip or merge rows.
+- Put notes that contain a comma in double quotes.
+- Code all outcomes in this single response.
+
+INPUT (tab-separated: stage, grade, code, outcome_text_hr)
+{{INPUT}}

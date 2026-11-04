@@ -1,0 +1,6 @@
+rater_id,key,field,raw,clean,action
+gemini_shuffled,,file,,,repair: 1 rows had unquoted commas in napomena (merged back into one field)
+perplexity_run1,,file,,,repair: 127 rows had stage+grade prefix in code column (e.g. 'OS1A.1.1' -> OS / 1 / A.1.1); split into separate columns
+perplexity_run2,,file,,,repair: 127 rows had stage+grade prefix in code column (e.g. 'OS1A.1.1' -> OS / 1 / A.1.1); split into separate columns
+perplexity_run3,,file,,,repair: 127 rows had stage+grade prefix in code column (e.g. 'OS1A.1.1' -> OS / 1 / A.1.1); split into separate columns
+perplexity_shuffled,,file,,,repair: 127 rows had stage+grade prefix in code column (e.g. 'OS1A.1.1' -> OS / 1 / A.1.1); split into separate columns

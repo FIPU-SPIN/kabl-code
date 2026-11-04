@@ -1,0 +1,13 @@
+rater_set,n_raters,scale,metric,alpha,ci_lo,ci_hi
+humans_only,2,bloom,ordinal,0.8163,0.7062,0.91
+humans_only,2,bloom,interval,0.8089,0.7054,0.8927
+humans_only,2,bloom,nominal,0.7446,0.656,0.8313
+humans_only,2,abc,nominal,0.8538,0.7776,0.9177
+humans_plus_model_consensus,7,bloom,ordinal,0.901,0.8439,0.9474
+humans_plus_model_consensus,7,bloom,interval,0.8964,0.8459,0.9395
+humans_plus_model_consensus,7,bloom,nominal,0.8642,0.8202,0.9073
+humans_plus_model_consensus,7,abc,nominal,0.878,0.8338,0.9177
+humans_plus_all_base_runs,17,bloom,ordinal,0.9075,0.8574,0.9481
+humans_plus_all_base_runs,17,bloom,interval,0.9048,0.8569,0.9428
+humans_plus_all_base_runs,17,bloom,nominal,0.8768,0.8358,0.9137
+humans_plus_all_base_runs,17,abc,nominal,0.8729,0.8301,0.9068

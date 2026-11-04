@@ -1,0 +1,128 @@
+﻿stage,grade,code,outcome_text_hr,bloom_razina_1_do_6,abc_tip,napomena
+OS,1,A.1.1,prepoznaje digitalnu tehnologiju i komunicira s poznatim osobama uz pomoć učitelja u sigurnome digitalnom okruženju,3,Practice,"""komunicira"" tumačim kao primjenu; ponašanje u sigurnom okruženju"
+OS,1,A.1.2,"razlikuje oblike digitalnih sadržaja, uređaje i postupke za njihovo stvaranje",2,Acquisition,"""razlikuje"" dvoznačno: tumačim kao razumijevanje/prepoznavanje, ne analizu"
+OS,1,B.1.1,rješava jednostavan logički zadatak,3,Practice,
+OS,1,B.1.2,prati i prikazuje slijed koraka potrebnih za rješavanje nekoga jednostavnog zadatka,2,Practice,"""prikazuje"" = 2, ali ishod traži izvođenje slijeda koraka, pa Practice"
+OS,1,C.1.1,uz podršku učitelja koristi se predloženim programima i digitalnim obrazovnim sadržajima,3,Practice,
+OS,1,C.1.2,uz podršku učitelja vrlo jednostavnim radnjama izrađuje jednostavne digitalne sadržaje,6,Production,
+OS,1,D.1.1,pažljivo i odgovorno koristi se informacijskom i komunikacijskom opremom i štiti svoje osobne podatke,3,Practice,ishod o ponašanju/navikama: najbliža razina po vlastitoj procjeni
+OS,1,D.1.2,primjenjuje zdrave navike ponašanja tijekom rada na računalu i prihvaća preporuke o količini vremena provedenoga za računalom,3,Practice,ishod o ponašanju/navikama: najbliža razina po vlastitoj procjeni
+OS,2,A.2.1,objašnjava ulogu programa u uporabi računala,2,Acquisition,
+OS,2,A.2.2,uz pomoć učitelja prepoznaje internet kao izvor nekih usluga i podataka te pretražuje preporučene sadržaje,3,Practice,"""prepoznaje"" = 1, ""pretražuje"" = 3"
+OS,2,B.2.1,"analizira niz uputa koje izvode jednostavan zadatak, ako je potrebno ispravlja pogrešan redoslijed",4,Investigation,"ispravlja redoslijed (3), ali analiza je najviši glagol"
+OS,2,B.2.2,stvara niz uputa u kojemu upotrebljava ponavljanje,6,Production,niz uputa s ponavljanjem tretiram kao jednostavan program/artefakt
+OS,2,C.2.1,prema savjetima učitelja odabire uređaj i program za jednostavne školske zadatke,3,Practice,"""odabire"" dvoznačno (3 ili 5); uz savjete učitelja = 3"
+OS,2,C.2.2,izrađuje digitalne radove kombiniranjem različitih oblika sadržaja uz podršku učitelja,6,Production,
+OS,2,C.2.3,uz pomoć učitelja surađuje i komunicira s poznatim osobama u sigurnome digitalnom okruženju,3,Collaboration,
+OS,2,D.2.1,prepoznaje i opisuje neke poslove koji se koriste informacijskom i komunikacijskom tehnologijom,2,Acquisition,
+OS,2,D.2.2,koristi se e-uslugama u području odgoja i obrazovanja,3,Practice,
+OS,2,D.2.3,analizira neke opasnosti koje mogu nastupiti pri uporabi računala i interneta te pravilno na njih reagira,4,Investigation,"""pravilno reagira"" = 3, analiza je najviša"
+OS,2,D.2.4,odgovorno se ponaša pri korištenju sadržajima i uslugama na internetu radi zaštite osobnih podataka i digitalnoga ugleda,3,Practice,ishod o ponašanju/navikama: najbliža razina po vlastitoj procjeni
+OS,3,A.3.1,koristi se simbolima za prikazivanje podataka,3,Practice,
+OS,3,A.3.2,objašnjava i analizira jednostavne hardverske/softverske probleme i poteškoće koji se mogu dogoditi tijekom njihove uporabe,4,Investigation,
+OS,3,B.3.1,"stvara program korištenjem vizualnoga okruženja u kojem se koristi slijedom koraka, ponavljanjem i odlukom te uz pomoć učitelja vrednuje svoje rješenje",6,Production,
+OS,3,B.3.2,slaže podatke na koristan način,3,Practice,"""slaže podatke"" = organizira prema postupku (3)"
+OS,3,C.3.1,samostalno odabire uređaj i program iz skupa predloženih te procjenjuje načine njihove uporabe,5,Investigation,"""procjenjuje"" = 5; ""odabire"" dvoznačno"
+OS,3,C.3.2,prema uputama izrađuje jednostavne digitalne radove,6,Production,
+OS,3,C.3.3,koristi se sigurnim digitalnim okruženjem za komunikaciju u suradničkim aktivnostima,3,Collaboration,izričito suradničke aktivnosti; Collaboration
+OS,3,C.3.4,razlikuje uloge i aktivnosti koje zahtijeva suradničko online okruženje,2,Acquisition,"""razlikuje"" dvoznačno: tumačim kao razumijevanje (2)"
+OS,3,D.3.1,"primjenjuje preporuke o preraspodjeli vremena u kojemu se koristi digitalnom tehnologijom za učenje, komunikaciju i zabavu te primjenjuje zdrave navike",3,Practice,ishod o ponašanju/navikama: najbliža razina po vlastitoj procjeni
+OS,3,D.3.2,"primjereno reagira na svaku opasnost/neugodnost u digitalnome okruženju, štiti svoje i tuđe osobne podatke",3,Practice,ishod o ponašanju/navikama: najbliža razina po vlastitoj procjeni
+OS,4,A.4.1,"objašnjava koncept računalne mreže, razlikuje mogućnosti koje one nude za komunikaciju i suradnju, opisuje ih kao izvor podataka",2,Acquisition,"""razlikuje"" tumačim kao 2"
+OS,4,A.4.2,analizira čimbenike koji razlikuju ljude od strojeva te proučava načine interakcije čovjek – stroj,4,Investigation,
+OS,4,A.4.3,"koristi se simbolima za prikazivanje podataka, analizira postupak prikazivanja te vrednuje njegovu učinkovitost",5,Investigation,"""vrednuje"" najviši glagol"
+OS,4,B.4.1,"stvara program korištenjem vizualnog okruženja u kojem koristi slijed, ponavljanje, odluku i ulazne vrijednosti",6,Production,
+OS,4,B.4.2,rješava složenije logičke zadatke s uporabom računala ili bez uporabe računala,3,Practice,
+OS,4,C.4.1,"odabire prikladan program za zadani zadatak, preporučuje ga drugima te istražuje mogućnosti sličnih programa",5,Investigation,"""preporučuje drugima"" tumačim kao prosuđivanje (5); ""odabire"" i ""istražuje"" dvoznačni"
+OS,4,C.4.2,"osmišljava plan izrade digitalnoga rada, izrađuje i vrednuje rad",6,Production,
+OS,4,C.4.3,u suradničkome online okruženju zajednički planira i ostvaruje jednostavne ideje,6,Collaboration,
+OS,4,D.4.1,istražuje ograničenja uporabe računalne tehnologije te primjenjuje upute za očuvanje zdravlja i sigurnost pri radu s računalom,4,Investigation,"""istražuje"" tumačim kao 4; primjena uputa = 3"
+OS,4,D.4.2,analizira široki spektar poslova koji zahtijevaju znanje ili uporabu informacijske i komunikacijske tehnologije,4,Investigation,
+OS,5,A.5.1,pronalazi i vrednuje informacije,5,Investigation,
+OS,5,A.5.2,"istražuje glavne komponente uobičajenih digitalnih sustava, određuje osnovne funkcije i veze s drugima, istražuje kako se takvi sustavi mogu povezivati mrežom i kako razmjenjivati podatke",4,Investigation,"""istražuje"" tumačim kao 4"
+OS,5,A.5.3,analizira način na koji računalo pohranjuje sve vrste podataka,4,Investigation,
+OS,5,B.5.1,koristi se programskim alatom za stvaranje programa u kojemu se koristi ulaznim i izlaznim vrijednostima te ponavljanjem,6,Production,"""koristi se alatom za stvaranje programa"": ishod je program; alternativa 3/Practice"
+OS,5,B.5.2,"stvara algoritam za rješavanje jednostavnoga zadatka, provjerava ispravnost algoritma, otkriva i popravlja pogreške",6,Production,
+OS,5,C.5.1,"prilagođava korisničko sučelje operacijskoga sustava svojim potrebama, samostalno otkriva i pokazuje dodatne mogućnosti operacijskoga sustava",3,Practice,"""samostalno otkriva"" tumačim kao primjenu/istraživanje alata"
+OS,5,C.5.2,koristi se mogućnostima sustava za pohranjivanje i organizaciju datoteka,3,Practice,
+OS,5,C.5.3,"osmišljava plan izrade digitalnog rada, izrađuje ga, pohranjuje u mapu digitalnih radova (e-portfolio) i vrednuje ga",6,Production,
+OS,5,C.5.4,upotrebljava multimedijske programe za ostvarivanje složenijih ideja u komunikacijskome ili suradničkome okruženju,6,Production,"""ostvarivanje složenijih ideja"" = stvaranje; alternativa 3/Practice; suradnja nije izričita"
+OS,5,D.5.1,analizira etička pitanja koja proizlaze iz korištenja računalnom tehnologijom,4,Investigation,
+OS,5,D.5.2,argumentira i procjenjuje važnost zbrinjavanja elektroničkoga otpada te objašnjava postupke njegova zbrinjavanja,5,Discussion,"""argumentira"" = rasprava"
+OS,6,A.6.1,planira i stvara vlastite hijerarhijske organizacije te analizira organizaciju na računalnim i mrežnim mjestima,6,Production,
+OS,6,A.6.2,"opisuje načine povezivanja uređaja u mrežu, analizira prednosti i nedostatke mrežnoga povezivanja te odabire i primjenjuje postupke za zaštitu na mreži",4,Investigation,"""odabire"" i ""primjenjuje"" = 3; analiza je najviša"
+OS,6,B.6.1,"stvara, prati i preuređuje programe koji sadrže strukture grananja i uvjetnoga ponavljanja te predviđa ponašanje jednostavnih algoritama koji mogu biti prikazani dijagramom, riječima govornoga jezika ili programskim jezikom",6,Production,
+OS,6,B.6.2,razmatra i rješava složeniji problem rastavljajući ga na niz potproblema,4,Practice,"""razmatra"" i rastavljanje na potprobleme = 4; rješavanje = Practice"
+OS,6,C.6.1,"izrađuje, objavljuje te predstavlja digitalne sadržaje s pomoću nekoga online i/ili offline programa pri čemu poštuje uvjete korištenja programom te postavke privatnosti",6,Production,
+OS,6,C.6.2,koristi se online pohranom podataka i primjerenim programima kao potporom u učenju i istraživanju te suradnji,3,Practice,"suradnja spomenuta samo kao svrha, ne izričit zahtjev"
+OS,6,C.6.3,surađuje s drugim učenicima u stvaranju online sadržaja,6,Collaboration,
+OS,6,D.6.1,"objašnjava ulogu i važnost digitalnih tragova, stvara svoje pozitivne digitalne tragove",6,Production,"""objašnjava"" = 2, ""stvara"" = 6; dijelom ponašanje"
+OS,6,D.6.2,"prepoznaje vrste elektroničkoga nasilja, analizira ih i odabire preventivne načine djelovanja za različite slučajeve elektroničkoga nasilja",4,Investigation,
+OS,6,D.6.3,"pronalazi mrežne zajednice učenja koje su od osobnog interesa i pridružuje im se (online kolegij, grupe i sl.)",3,Practice,"""pronalazi i pridružuje se"" = ponašanje/primjena"
+OS,7,A.7.1,"prepoznaje i opisuje ulogu glavnih komponenti računalnih mreža, istražuje kako obilježja strojne opreme utječu na mrežne aktivnosti, koristi se zajedničkim dijeljenjem resursa na mreži",4,Investigation,
+OS,7,A.7.2,primjenjuje strategije za prepoznavanje i rješavanje rutinskih hardverskih/softverskih problema do kojih može doći tijekom uporabe računalne tehnologije,3,Practice,
+OS,7,A.7.3,"prikuplja i unosi podatke kojima se analizira neki problem s pomoću odgovarajućega programa, otkriva odnos među podatcima koristeći se različitim alatima programa te mogućnostima prikazivanja podataka",4,Investigation,
+OS,7,A.7.4,"opisuje, uspoređuje i koristi se različitim formatima zapisivanja grafičkih i zvučnih podataka te videopodataka na računalu",4,Investigation,"""uspoređuje"" tumačim kao analizu (4)"
+OS,7,B.7.1,razvija algoritme za rješavanje različitih problema koristeći se nekim programskim jezikom pri čemu se koristi prikladnim strukturama i tipovima podataka,6,Production,
+OS,7,B.7.2,primjenjuje algoritam (sekvencijalnog) pretraživanja pri rješavanju problema,3,Practice,
+OS,7,B.7.3,dizajnira i izrađuje modularne programe koji sadrže potprograme u programskom jeziku,6,Production,
+OS,7,B.7.4,"koristi se simulacijom pri rješavanju nekoga, ne nužno računalnoga, problema",3,Practice,
+OS,7,C.7.1,"koristi i upoznaje se s različitim platformama i programima, koje prema potrebi pronalazi i instalira",3,Practice,
+OS,7,C.7.2,"priprema, izrađuje te objavljuje vlastite mrežne stranice u skladu s dobrom praksom u području intelektualnoga vlasništva, kritički prosuđuje dobra i loša obilježja pojedinih mrežnih sadržaja",6,Production,"""kritički prosuđuje"" = 5, ali stvaranje stranica je najviše"
+OS,7,D.7.1,štiti svoj elektronički identitet i primjenjuje pravila za povećanje sigurnosti korisničkih računa,3,Practice,ishod o ponašanju/navikama: najbliža razina po vlastitoj procjeni
+OS,7,D.7.2,demonstrira i argumentirano opisuje primjere dobrih strana dijeljenja informacija na internetu i njihova brzog širenja te primjenjuje pravila odgovornoga ponašanja,5,Discussion,"""argumentirano opisuje"" tumačim kao 5; ""demonstrira"" = 2"
+OS,7,D.7.3,"analizira proces suradnje među članovima virtualnih zajednica te njezin utjecaj na sve članove grupe, provjerava i proučava mogućnosti i načine otvaranja virtualne zajednice",4,Investigation,
+OS,7,D.7.4,prepoznaje i proučava interdisciplinarne poslove koji su poboljšani razvojem informatike i informacijske i komunikacijske tehnologije,4,Investigation,"""prepoznaje i proučava""; ""proučava"" tumačim kao 4"
+OS,8,A.8.1,"kritički procjenjuje točnost, učestalost, relevantnost i pouzdanost informacija i njihovih izvora",5,Investigation,
+OS,8,A.8.2,"opisuje i planira organizaciju baze podataka, koristi se nekim programom za upravljanje bazama podataka za lakše pretraživanje i sortiranje podataka",6,Production,"""planira organizaciju baze"" = 6; ishod uključuje bazu podataka"
+OS,8,A.8.3,"opisuje građu računalnih uređaja, objašnjava načine prijenosa podataka u računalu te analizira i vrednuje neka obilježja računala koja značajno utječu na kvalitetu rada samoga računala",5,Investigation,
+OS,8,A.8.4,prepoznaje i proučava interdisciplinarnu primjenu računalnoga razmišljanja analiziranjem i rješavanjem odabranih problema iz različitih područja učenja,4,Investigation,
+OS,8,B.8.1,"identificira neki problem iz stvarnoga svijeta, stvara program za njegovo rješavanje, dokumentira rad programa i predstavlja djelovanje programa drugima",6,Production,
+OS,8,B.8.2,"prepoznaje i opisuje algoritam sortiranja, primjenjuje jedan algoritam sortiranja za rješavanje zadanoga problema u programskom jeziku",3,Practice,
+OS,8,B.8.3,prepoznaje i opisuje mogućnost primjene rekurzivnih postupaka pri rješavanju odabranih problema te istražuje daljnje mogućnosti primjene rekurzije,4,Investigation,"""istražuje"" tumačim kao 4"
+OS,8,C.8.1,"pronalazi, opisuje te uspoređuje različite servise za objavljivanje mrežnoga sadržaja, opisuje postupak objavljivanja mrežnoga sadržaja",4,Investigation,"""uspoređuje"" tumačim kao 4"
+OS,8,C.8.2,"samostalno pronalazi informacije i programe, odabire prikladne izvore informacija te uređuje, stvara i objavljuje/dijeli digitalne sadržaje",6,Production,
+OS,8,C.8.3,"dizajnira, razvija, objavljuje i predstavlja radove s pomoću sredstava informacijske i komunikacijske tehnologije primjenjujući suradničke aktivnosti",6,Collaboration,"""primjenjujući suradničke aktivnosti"" = rad s drugima"
+OS,8,D.8.1,učinkovito se koristi dostupnim e-uslugama u području odgoja i obrazovanja,3,Practice,
+OS,8,D.8.2,aktivno sudjeluje u sprečavanju elektroničkoga nasilja i govora mržnje,3,Practice,ishod o ponašanju/navikama: najbliža razina po vlastitoj procjeni; alternativa Discussion
+SS,1,A.1.1,objašnjava glavne komponente računalnoga sustava i njihove funkcije,2,Acquisition,
+SS,1,A.1.2,primjenjuje principe hijerarhijske organizacije mapa u računalnim memorijama te razlikuje formate datoteka,3,Practice,"""razlikuje"" = 2"
+SS,1,A.1.3,analizira i primjenjuje sažimanje datoteka,4,Practice,"""analizira i primjenjuje""; Practice jer je središnja aktivnost primjena sažimanja"
+SS,1,A.1.4,analizira ulogu binarnoga i heksadekadskoga brojevnog sustava u predstavljanju digitalnoga prikaza različitih tipova podataka,4,Investigation,
+SS,1,A.1.5,definira logički izraz za zadani problem,3,Practice,"""definira"" dvoznačno (1 ili 6); definiranje izraza za problem tumačim kao primjenu"
+SS,1,B.1.1,"analizira problem, definira ulazne i izlazne vrijednosti te uočava korake za rješavanje problema",4,Investigation,
+SS,1,B.1.2,"primjenjuje jednostavne tipove podataka te argumentira njihov odabir, primjenjuje različite vrste izraza, operacija, relacija i standardnih funkcija za modeliranje jednostavnoga problema u odabranome programskom jeziku",3,Practice,"""argumentira"" = 5, ali ishod dominantno traži primjenu; moguće i 5"
+SS,1,B.1.3,razvija algoritam i stvara program u odabranome programskom jeziku rješavajući problem uporabom strukture grananja i ponavljanja,6,Production,
+SS,1,C.1.1,"pronalazi podatke i informacije, odabire prikladne izvore informacija te uređuje, stvara i objavljuje/dijeli svoje digitalne sadržaje",6,Production,
+SS,1,C.1.2,"istražuje usluge interneta i mogućnosti učenja, poslovanja, budućega razvoja",4,Investigation,"""istražuje"" tumačim kao 4"
+SS,1,C.1.3,u online okruženju surađuje i radi na projektu,3,Collaboration,
+SS,1,D.1.1,u suradničkome online okruženju na zajedničkom projektu analizira etička pitanja koja proizlaze iz korištenja računalnom tehnologijom,4,Collaboration,zajednički projekt u suradničkom okruženju
+SS,1,D.1.2,opisuje probleme koje mogu prouzročiti zlonamjerni programi te probleme koji nastaju kao rezultat elektroničkih napada i krađe elektroničkoga identiteta te odgovorno primjenjuje sigurnosna pravila,3,Acquisition,"""opisuje"" problema + odgovorna primjena pravila (3); ponašanje"
+SS,1,D.1.3,analizira ulogu koju pomoćna tehnologija i prilagođeni digitalni sadržaji mogu imati u životima osoba s poteškoćama,4,Investigation,
+SS,2,A.2.1,opisuje temeljne koncepte računalnih mreža,2,Acquisition,
+SS,2,A.2.2,opisuje princip kriptiranja te važnost primjene enkripcije u svakodnevnome životu,2,Acquisition,
+SS,2,A.2.3,objašnjava binarno zbrajanje cijelih brojeva kao temeljnu operaciju u računalu,2,Acquisition,
+SS,2,A.2.4a,konstruira smisleni logički sklop,6,Production,"""konstruira logički sklop"""
+SS,2,A.2.4b,"opisuje, modelira i stvara bazu podataka te ju primjenjuje pri rješavanju problema",6,Production,
+SS,2,B.2.1,analizira osnovne algoritme s jednostavnim tipovima podataka i osnovnim programskim strukturama i primjenjuje ih pri rješavanju novih problema,4,Practice,"""analizira"" i ""primjenjuje""; Practice zbog primjene na nove probleme"
+SS,2,B.2.2,"u zadanome problemu uočava manje cjeline, rješava ih te ih potom integrira u jedinstveno rješenje problema",6,Production,"""integrira"" u jedinstveno rješenje = 6"
+SS,2,B.2.3,rješava problem primjenjujući jednodimenzionalnu strukturu podataka,3,Practice,
+SS,2,B.2.4,"u suradnji s drugima osmišljava algoritam, implementira ga u odabranom programskom jeziku, testira program, dokumentira i predstavlja drugima mogućnosti i ograničenja programa",6,Collaboration,"""u suradnji s drugima"""
+SS,2,C.2.1,u suradničkome online okruženju na zajedničkome projektu istražuje utjecaj ugradnje računalnih sustava u razne uređaje na svakodnevni život,4,Collaboration,"zajednički projekt u suradničkom okruženju; ""istražuje"" = 4"
+SS,2,C.2.2,analizira programe s obzirom na licenciju i na preduvjete za instalaciju programa,4,Investigation,
+SS,2,C.2.3,"uspoređuje strategije prikupljanja podataka prema relevantnosti i pouzdanosti izvora podataka, odabranim programom učinkovito analizira i prikazuje podatke i rezultate",4,Investigation,"""uspoređuje"" = 4; ""učinkovito analizira i prikazuje"" također 4"
+SS,2,D.2.1,aktivno pridonosi unapređenju kvalitete života podizanjem ekološke svijesti,3,Practice,"ishod o ponašanju/navikama: najbliža razina po vlastitoj procjeni; ""aktivno pridonosi"""
+SS,2,D.2.2,analizira i procjenjuje utjecaj informacijske i komunikacijske tehnologije na učinkovitost i produktivnost u raznim područjima i poslovima,5,Investigation,
+SS,3,A.3.1,"dizajnira, razvija i objavljuje strukturu povezanih mrežnih stranica s pomoću alata i tehnologija koje se izvode na računalu korisnika",6,Production,
+SS,3,B.3.1,primjenjuje standardne algoritme definirane nad cijelim brojevima,3,Practice,
+SS,3,B.3.2,analizira sortiranje podataka kao važan koncept za rješavanje različitih problema,4,Investigation,
+SS,3,B.3.3,koristeći neki grafički modul vizualizira i grafički prikazuje neki problem iz svoje okoline,6,Production,"""vizualizira"" tumačim kao izradu grafičkog prikaza"
+SS,3,B.3.4,rješava problem primjenjujući složene tipove podataka definirane zadanim programskim jezikom,3,Practice,
+SS,3,B.3.5,"definira problem iz stvarnoga života i stvara programsko rješenje prolazeći sve faze programiranja, predstavlja programsko rješenje ostalima i vrednuje ga",6,Production,
+SS,3,C.3.1,"planira, razvija, stvara, predstavlja i vrednuje multimedijski projekt",6,Production,
+SS,4,A.4.1,za jednostavni problem iz stvarnoga života oblikuje bazu podataka te ju realizira u nekom sustavu za rad s bazama podataka,6,Production,
+SS,4,B.4.1,rješava problem primjenjujući rekurzivnu funkciju,3,Practice,
+SS,4,B.4.2,uspoređuje različite algoritme sortiranja i pretraživanja podataka,4,Investigation,"""uspoređuje"" tumačim kao 4"
+SS,4,B.4.3,osmišljava objektni model s pripadnim složenim strukturama podataka implementira ga u zadanome programskom jeziku,6,Production,
+SS,4,B.4.4,"definira problem iz stvarnoga života i stvara programsko rješenje prolazeći sve faze programiranja, predstavlja programsko rješenje i vrednuje ga",6,Production,
+SS,4,C.4.1,"planira, razvija, stvara, predstavlja i vrednuje multimedijski projekt",6,Production,

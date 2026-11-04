@@ -1,0 +1,11 @@
+model,scale,n_base_runs,n_items_with_consensus,n_ties_no_consensus
+chatgpt,bloom,3,127,0
+claude,bloom,3,127,0
+deepseek,bloom,3,127,0
+gemini,bloom,3,127,0
+perplexity,bloom,3,127,0
+chatgpt,abc,3,127,0
+claude,abc,3,127,0
+deepseek,abc,3,127,0
+gemini,abc,3,127,0
+perplexity,abc,3,127,0
