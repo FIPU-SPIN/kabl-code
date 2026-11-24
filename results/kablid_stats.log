@@ -1,0 +1,6 @@
+[2026-11-05 10:29:19] INFO: KABL-ID statistics pipeline
+[2026-11-05 10:29:19] INFO: Data directory:   C:\Users\milic\Documents\GitHub\kabl-code
+[2026-11-05 10:29:19] INFO: Output directory: C:\Users\milic\Documents\GitHub\kabl-code\results
+[2026-11-05 10:29:19] INFO: Loaded bloom_wide.csv: 127 rows, 25 columns
+[2026-11-05 10:29:19] INFO: Loaded abc_wide.csv: 127 rows, 25 columns
+[2026-11-05 10:29:20] INFO: --- Tables ---

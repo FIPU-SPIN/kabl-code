@@ -1,0 +1,5 @@
+test,statistic,p,df
+Wilcoxon_coder1_vs_coder2_bloom,149.0,0.7109,127
+Kruskal_domain_bloom_coder1,10.214,0.0168,3
+Kruskal_domain_bloom_coder2,8.025,0.0455,3
+Kruskal_domain_bloom_LLM,11.015,0.0116,3
